@@ -19,7 +19,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "60"))
 
 LOGGER_ID = int(getenv("LOGGER_ID", "0"))
-OWNER_ID = int(getenv("OWNER_ID", "7574330905"))
+OWNER_ID = int(getenv("OWNER_ID", "8591400698"))
 
 # Heroku App Name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "")
@@ -29,14 +29,14 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", "")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/NoxxOP/ShrutixMusic",
+    "https://github.com/SpicyEryx/own",
 )
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
 GIT_TOKEN = getenv("GIT_TOKEN")
 
-# Get API Key from @SHRUTIAPIBOT
+# Get API Key from @SPICYERYX
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL",
@@ -85,24 +85,24 @@ confirmer = {}
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://graph.org/file/7557c0e0e0c1708f62d6a-6892ea881cc1555c83.jpg"
+    "https://files.catbox.moe/wjo3bg.png"
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/f35df5dd605d76ff790b7-953db0f3e71a2e5a1a.jpg"
+    "https://files.catbox.moe/wjo3bg.png"
 )
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
+STATS_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/wjo3bg.png"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/wjo3bg.png"
+STREAM_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
 
 
 def time_to_seconds(time):
