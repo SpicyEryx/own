@@ -85,24 +85,24 @@ confirmer = {}
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://files.catbox.moe/wjo3bg.png"
+    "https://purvibox.vercel.app/1794967980380.jpg"
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/wjo3bg.png"
+    "https://purvibox.vercel.app/1794967980380.jpg"
 )
 
-PLAYLIST_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
-STATS_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/wjo3bg.png"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/wjo3bg.png"
-STREAM_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/wjo3bg.png"
+PLAYLIST_IMG_URL = "https://purvibox.vercel.app/1794967980380.jpg"
+STATS_IMG_URL = "https://purvibox.vercel.app/1794967980380.jpg"
+TELEGRAM_AUDIO_URL = "https://purvibox.vercel.app/1794967980380.jpg"
+TELEGRAM_VIDEO_URL = "https://purvibox.vercel.app/1794967980380.jpg"
+STREAM_IMG_URL = "https://purvibox.vercel.app/1794967980380.jpg"
+SOUNCLOUD_IMG_URL = "https://purvibox.vercel.app/1794967980380.jpg"
+YOUTUBE_IMG_URL = "https://purvibox.vercel.app/1794967980380.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://purvibox.vercel.app/1794967980380.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://purvibox.vercel.app/1794967980380.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://purvibox.vercel.app/1794967980380.jpg"
 
 
 def time_to_seconds(time):
